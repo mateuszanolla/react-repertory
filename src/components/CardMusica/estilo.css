@@ -1,0 +1,15 @@
+.card-musica{
+   display:flex;
+   flex-flow: row wrap;   
+   align-content: flex-start;
+ }
+ 
+ .card-musica > li {
+   border: 2px solid navy;
+   width: 10vw;
+   padding: 5vh;
+   margin: 0 5vh 5vh 0;
+   border-radius: 10px;
+   list-style-type: none;
+   flex-shrink: 0;
+ }

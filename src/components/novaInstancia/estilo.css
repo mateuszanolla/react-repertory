@@ -1,0 +1,27 @@
+.container-novainstancia{
+    display:flex;
+    flex-direction: column;
+    align-items: space-around;
+    
+}
+
+
+.elements-novainstancia{
+    border-radius:5px;
+    margin:5px 0;
+  }
+  
+  .button{
+    background-color: lightblue; 
+    color: navy;
+    border-color: navy;
+  }
+  
+  .button:hover{
+    background-color: lightgray;
+  }
+  
+  .button:active{
+    background-color: gray;
+  }
+  
